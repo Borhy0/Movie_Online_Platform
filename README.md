@@ -2,4 +2,4 @@ Greatings this Marwan Mohammed aka borhy you may saw this name before if you don
 this is a movie online platform project which includs homepage , search engin and some Movies/TVShows only using html css and js
 I hope you like it 🙏🙏
 here is the link of the site :
-[project link]([https://borhy0.github.io/BorhysProject/index.html](https://borhy0.github.io/Movie_Online_Platform/)
+[project link](https://borhy0.github.io/Movie_Online_Platform/)
